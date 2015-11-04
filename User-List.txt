@@ -1,0 +1,22 @@
+This is the list of users of MRLUG.
+Feel free to add youself to the list ( sorted alphabetically):
+
+Please observe the following notations while adding your name to the list :
+1. Find the location where your name must be added ( The List is sorted
+alphabetically )
+
+2. Type a line consisting of 20 underscores
+3. Type in your name ,then enrollment number ,and finally ,branch and year.
+
+That's it :) , Welcome to BVP-LUG !
+____________________
+Aman Kapoor(Co-founder)
+1/13/fet/bcs/2/051
+CSE 5CSD2 (2017)
+____________________
+____________________
+Mayank Tiwari
+1/13/fet/bcs/2/064
+CSE 5CSD2 (2017)
+____________________
+____________________
