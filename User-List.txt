@@ -8,7 +8,7 @@ alphabetically )
 2. Type a line consisting of 20 underscores
 3. Type in your name ,then enrollment number ,and finally ,branch and year.
 
-That's it :) , Welcome to BVP-LUG !
+That's it :) , Welcome to MRIU-LUG !
 ____________________
 Aman Kapoor(Co-founder)
 1/13/fet/bcs/2/051
